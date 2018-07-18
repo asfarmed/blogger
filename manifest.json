@@ -1,0 +1,21 @@
+{
+    "lang": "en",
+    "short_name": "Atg.com",
+    "name": "Aaron T. Grogg's website",
+    "icons": [
+        {
+            "src": "http://www.datanetbilisim.com/img/apple-touch-icon-114x114-precomposed.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "http://www.terminalpourcel.com/wp-content/uploads/2016/10/apple-touch-icon-144x144-300x300.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "display": "browser",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff"
+}
