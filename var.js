@@ -1,0 +1,1 @@
+var doamain ="111";
