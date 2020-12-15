@@ -4,6 +4,6 @@
   "theme_color": "#2149f3",
   "background_color": "#2196f3",
   "display": "browser",
-  "scope": "/",
-  "start_url": "/"
+  "scope": "https://m3u8-simple-player.blogspot.com/",
+  "start_url": "https://m3u8-simple-player.blogspot.com/"
 }
